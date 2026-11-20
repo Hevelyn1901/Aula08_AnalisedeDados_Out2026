@@ -1,5 +1,5 @@
 # LISTAS
-# Permite gravae mais de um elemento dentro dela
+# Permite gravar mais de um elemento dentro dela
 # Coleção Mutável (Inserir, apagar modificar etc)
 # Permite acesso por indices
 
